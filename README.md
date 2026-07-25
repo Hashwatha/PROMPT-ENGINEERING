@@ -221,6 +221,14 @@ necessitate continued research into more efficient architectures, training metho
 ethical considerations. The future of generative AI will likely focus on balancing performance
 with sustainability and accessibility.
 
+<img width="1057" height="616" alt="image" src="https://github.com/user-attachments/assets/0b32b080-6027-4ad0-9f02-24118dab7125" />
+
+<img width="995" height="508" alt="image" src="https://github.com/user-attachments/assets/40e4a873-a929-4482-b870-bf3188690340" />
+
+<img width="1514" height="930" alt="image" src="https://github.com/user-attachments/assets/0df72aa0-92cf-4673-b2cb-7c6f9e877d4f" />
+
+<img width="980" height="571" alt="image" src="https://github.com/user-attachments/assets/fbc3cd61-fdcf-405b-a3ed-d3cf842e74ae" />
+
 # Result:
 Generative AI has significantly enhanced content generation, NLP, and various creative applications.
 Large Language Models continue to improve in accuracy, efficiency, and adaptability, shaping the
